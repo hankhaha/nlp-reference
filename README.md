@@ -1,5 +1,5 @@
 # nlp-reference
-This repo serves as the knowledge repository that contains articles and paper published in NLP community.
+This repository serves as the knowledge sharing repository that contains articles and paper published in NLP community.
 
 
 ## Sentence Embeddings
