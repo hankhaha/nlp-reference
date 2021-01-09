@@ -3,7 +3,6 @@ This repository serves as the knowledge sharing repository that contains article
 
 
 ## Sentence Embeddings
-
 1. [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://www.aclweb.org/anthology/D19-1410.pdf)
   > [code](https://github.com/UKPLab/sentence-transformers)
   > [documentation](https://www.sbert.net/)
