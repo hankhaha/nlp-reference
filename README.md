@@ -9,6 +9,7 @@ This repository serves as the knowledge sharing repository that contains article
 2. [SentenceBERT — Semantically meaningful sentence embeddings the right way](https://medium.com/dair-ai/tl-dr-sentencebert-8dec326daf4e)
 3. [Semantic Question Matching with Deep Learning](https://www.quora.com/q/quoraengineering/Semantic-Question-Matching-with-Deep-Learning)
 4. [Top 4 Sentence Embedding Techniques using Python](https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/)
+5. [Semantic Search in NLP](https://medium.com/swlh/semantic-search-with-nlp-86084ca81247)
 
 ## QA: Question Answeing
 1. [How to Build an Open-Domain Question Answeing System](https://lilianweng.github.io/lil-log/2020/10/29/open-domain-question-answering.html)
