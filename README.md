@@ -30,3 +30,4 @@ This repository serves as the knowledge sharing repository that contains article
 
 ## Data Science Best Practices 
 1. [7 techniques to handle imbalance data](https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
+2. [Hyperparameter Tuning Guide](https://neptune.ai/blog/hyperparameter-tuning-in-python-a-complete-guide-2020)
