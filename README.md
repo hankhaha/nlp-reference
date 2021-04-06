@@ -27,6 +27,7 @@ This repository serves as the knowledge sharing repository that contains article
 
 ## Data Visualization 
 1. [EDA for text data](https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a)
+2. [Correlation Heatmap in Python](https://medium.com/@szabo.bibor/how-to-create-a-seaborn-correlation-heatmap-in-python-834c0686b88e)
 
 ## Data Science Best Practices 
 1. [7 techniques to handle imbalance data](https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
